@@ -1,0 +1,5 @@
+/mnt/d/universitas/Semester/Semester 4/Adpro/Module/tutorial8/susbscriber/target/debug/build/doc-comment-451bbb1f370a4999/build_script_build-451bbb1f370a4999: /home/adie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/doc-comment-0.3.3/build.rs
+
+/mnt/d/universitas/Semester/Semester 4/Adpro/Module/tutorial8/susbscriber/target/debug/build/doc-comment-451bbb1f370a4999/build_script_build-451bbb1f370a4999.d: /home/adie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/doc-comment-0.3.3/build.rs
+
+/home/adie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/doc-comment-0.3.3/build.rs:
